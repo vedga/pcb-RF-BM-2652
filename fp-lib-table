@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name VedgaZigBee)(type KiCad)(uri ${KIPRJMOD}/lib/footprint/VedgaZigBee.pretty)(options "")(descr ""))
+)

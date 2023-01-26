@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name VedgaZigBee)(type Legacy)(uri ${KIPRJMOD}/lib/VedgaZigBee.lib)(options "")(descr ""))
+  (lib (name VedgaZigBee-rescue)(type Legacy)(uri ${KIPRJMOD}/VedgaZigBee-rescue.lib)(options "")(descr ""))
+)

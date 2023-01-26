@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RF-BM-2652B1
+D SimpleLink™ Multiprotocol 2.4 GHz Wireless Module (Version 1.0)
+K ZigBee, CC2652R
+F https://www.szrfstar.com/upload/file/1598419977.pdf
+$ENDCMP
+#
+$CMP RF-BM-2652P2
+D SimpleLink™ Multiprotocol 2.4 GHz Wireless Module with Integrated Power Amplifier
+K ZigBee CC2652P
+F https://www.szrfstar.com/upload/file/1598420209.pdf
+$ENDCMP
+#
+#End Doc Library
